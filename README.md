@@ -15,6 +15,6 @@ If you decide to clone my app from GitHub and run it on your computer, you would
 As an app developer of Friend-Finder, here are the technologies I used:
 - jQuery/JavaScript
 - Node.js
-- npm packages: Express.js (Web Framework)
+- npm packages: Express (Web Framework), path (Directories & File Path)
 - Heroku (Cloud Platform)
 - Bootstrap
