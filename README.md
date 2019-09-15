@@ -3,7 +3,8 @@ This is a compatibility-based "FriendFinder" application -- basically a dating a
 
 # Deployed Version of Friend-Finder
 This application is deployed on Heroku. <br>
-:link: [CLICK HERE!]()
+:link: [CLICK HERE!](https://friend-finder-kayi007.herokuapp.com/
+)
 
 # How to run Friend-Finder Locally 
 If you decide to clone my app from GitHub and run it on your computer, you would need to:
